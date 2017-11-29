@@ -8,5 +8,4 @@ export function getPlural (str: any) {
 
 export function hello(){
     console.log("Hello World");
-    return "Hello World";
 }
