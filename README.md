@@ -1,4 +1,4 @@
-# npm-module
+# shashanks-npm-module
 
 A Node.js module that prints "Hello World" to the console.
 
