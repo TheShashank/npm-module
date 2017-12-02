@@ -1,5 +1,5 @@
 {
-  "name": "test-project",
+  "name": "shashanks-npm-module",
   "version": "1.0.0",
   "description": "Shashank's first NPM module",
   "main": "index.js",

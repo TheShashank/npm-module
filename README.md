@@ -8,13 +8,13 @@ A Node.js module that prints "Hello World" to the console.
 
 ```
 
-var hello = require('npm-module');
+var hello = require('shashanks-npm-module');
 npm-module.hello();
 ```
 
 ### TypeScript
 ```
-import { hello } from 'npm-module'
+import { hello } from 'shashanks-npm-module'
 hello();
 ```
 
