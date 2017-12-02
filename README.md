@@ -7,9 +7,9 @@ A Node.js module that prints "Hello World" to the console.
 ### JavaScript
 
 ```
+var shashanksNpmModule = require("shashanks-npm-module")
+shashanksNpmModule.hello();
 
-var hello = require('shashanks-npm-module');
-npm-module.hello();
 ```
 
 ### TypeScript
